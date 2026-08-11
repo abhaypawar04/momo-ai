@@ -9,7 +9,7 @@ export default function App() {
   const [messages, setMessages] = useState([
     {
       role: "assistant",
-      text: "👋 Hi! I'm MOMO Ai. Ask me anything about ai.",
+      text: "👋 Hi! I'm MOMO Ai. Ask me anything about ai here.",
     },
   ]);
 
