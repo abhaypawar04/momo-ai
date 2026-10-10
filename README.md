@@ -9,7 +9,7 @@ The project focuses on building a modern chatbot experience with a responsive UI
 ### Frontend
 
 * **React.js** – User interface
-* **JavaScript (ES6+)** – Application logic
+* **JavaScript (ES6+)** – Application logics
 * **HTML5** – Structure
 * **CSS3** – Styling and responsive design
 * **Axios** – API communication
