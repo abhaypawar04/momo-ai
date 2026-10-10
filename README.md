@@ -2,7 +2,7 @@
 
 **MOMO AI** is an intelligent AI-powered chatbot application developed using the **MERN Stack**. It provides an interactive conversational interface where users can communicate with an AI assistant, ask questions, and receive intelligent responses in real time.
 
-The project focuses on building a modern chatbot experience with a responsive UI, backend API integration, and AI-powered conversational capabilities.
+The project focuses on building a modern chatbot experience with a responsive UI, backend API integration, and AI-powered conversational capabilities-
 
 ## 🚀 Tech Stack
 
