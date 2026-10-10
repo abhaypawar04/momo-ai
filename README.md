@@ -259,4 +259,4 @@ MERN Stack Developer | AI Enthusiast
 
 ---
 
-⭐ If you like **MOMO AI**, consider giving the repository a star!
+⭐ If you like **MOMO AI**, consider giving the repository a star
